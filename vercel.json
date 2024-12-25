@@ -2,22 +2,22 @@
     "version": 2,
     "builds": [
       {
-        "src": "public/weather.html",
+        "src": "weather.html",
         "use": "@vercel/static"
       },
       {
-        "src": "public/styles.css",
+        "src": "styles.css",
         "use": "@vercel/static"
       },
       {
-        "src": "public/weather.js",
+        "src": "weather.js",
         "use": "@vercel/static"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "/public/weather.html"
+        "dest": "/weather.html"
       }
     ]
   }

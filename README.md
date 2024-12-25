@@ -15,11 +15,13 @@ A simple and elegant weather application that allows users to search for real-ti
 
 
 ## Screenshots
-![Weather App Screenshot](screenshot.png) 
+![{0B475C8B-7A7C-4ADB-AD47-D6F6E115F35D}](https://github.com/user-attachments/assets/72f69dae-13bf-43ce-9d4a-c4101e5bce50)
+
 
 ## Installation
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/SidBotVit/weather-app.git
+   
    cd weather-app
